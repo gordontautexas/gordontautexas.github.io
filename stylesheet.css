@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    background-color: snow;
+}
+
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-top: 10vh;
+    margin-bottom:10vh;
+    padding: 1px;
+}
+
+#link {
+    font-weight: 400;
+    font-size: large;
+}
+
+#link:hover {
+    color:red;
+}
